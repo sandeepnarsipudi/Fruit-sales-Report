@@ -1,6 +1,5 @@
 
-
-🍎 Fruit Sales Analysis Dashboard (Power BI)
+Fruit Sales Analysis Dashboard (Power BI)
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYTJlZjk2MzEtZTIyZS00ZWViLWJjZGUtMzA4MjkyNWZlMTU2IiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=e5b3f1d73af6a0940b6d
 
