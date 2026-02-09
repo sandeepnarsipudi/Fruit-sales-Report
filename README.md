@@ -1,9 +1,9 @@
 
-Fruit Sales Analysis Dashboard (Power BI)
+<h2 style="font-size:40px;">Fruit Sales Analysis (Power BI)</h2>
 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYTJlZjk2MzEtZTIyZS00ZWViLWJjZGUtMzA4MjkyNWZlMTU2IiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=e5b3f1d73af6a0940b6d
+Link: https://app.powerbi.com/view?r=eyJrIjoiYTJlZjk2MzEtZTIyZS00ZWViLWJjZGUtMzA4MjkyNWZlMTU2IiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=e5b3f1d73af6a0940b6d
 
-Dashboard Overview
+Overview
 
 This Power BI dashboard provides a comprehensive analysis of **fruit sales performance** using data sourced from **OneDrive** and developed entirely in **Power BI Service**. The report is designed to help users monitor sales trends, compare performance across customers and stores, and analyze business performance over time.
 
